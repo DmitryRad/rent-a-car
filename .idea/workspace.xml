@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbd8cde4-0cef-455f-82f0-5ac12a42a328" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/src/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/src/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2DTwfYVezQQ1FEHcTKNk1eSHiX1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROJECT\rent-a-car" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbd8cde4-0cef-455f-82f0-5ac12a42a328" name="Default Changelist" comment="" />
+      <created>1660736486011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660736486011</updated>
+      <workItem from="1660736487164" duration="416000" />
+      <workItem from="1660742041355" duration="51000" />
+      <workItem from="1660802610627" duration="723000" />
+      <workItem from="1660826801143" duration="2952000" />
+      <workItem from="1660894219825" duration="349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2610" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1660829816557">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2610" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1660829816557" />
+  </component>
+</project>
