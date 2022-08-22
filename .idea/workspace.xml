@@ -19,33 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbd8cde4-0cef-455f-82f0-5ac12a42a328" name="Default Changelist" comment="page create">
-      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rolls.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/transmission.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wheel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/year.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/src/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/Form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/src/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-test-2/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="1711d212-34a0-47e3-bc69-708452e143f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/9.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,21 +50,23 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2DTwfYVezQQ1FEHcTKNk1eSHiX1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -92,7 +83,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bbd8cde4-0cef-455f-82f0-5ac12a42a328" name="Default Changelist" comment="" />
+      <changelist id="1711d212-34a0-47e3-bc69-708452e143f8" name="Default Changelist" comment="" />
       <created>1660736486011</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -103,6 +94,9 @@
       <workItem from="1660826801143" duration="2952000" />
       <workItem from="1660894219825" duration="349000" />
       <workItem from="1660897389821" duration="8544000" />
+      <workItem from="1661150535237" duration="627000" />
+      <workItem from="1661155030786" duration="4231000" />
+      <workItem from="1661172504521" duration="2580000" />
     </task>
     <task id="LOCAL-00001" summary="page create">
       <created>1660914982298</created>
@@ -138,9 +132,13 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2610" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1660829816557" />
-    <state x="1992" y="261" key="Vcs.Push.Dialog.v2" timestamp="1660914984764">
+    <state x="2660" y="280" key="FileChooserDialogImpl" timestamp="1661150532368">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="1992" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1660914984764" />
+    <state x="2660" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1661150532368" />
+    <state x="1992" y="261" key="Vcs.Push.Dialog.v2" timestamp="1661153331646">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1992" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1661153331646" />
   </component>
 </project>

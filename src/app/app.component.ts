@@ -1,5 +1,6 @@
-import { Component, HostListener } from '@angular/core';
-import { FormBuilder, Validators } from "@angular/forms";
+import {Component, HostListener} from "@angular/core";
+import {FormBuilder, Validators} from "@angular/forms";
+import {AppService} from "./app.service";
 
 @Component({
   selector: 'app-root',
@@ -13,73 +14,13 @@ export class AppComponent {
     car: ['', Validators.required],
   })
 
-  carsData = [
-    {
-      image: "1.png",
-      name: "Lamborghini Huracan Spyder",
-      gear: "автомат",
-      engine: 5.2,
-      year: 2019
-    },
-    {
-      image: "2.png",
-      name: "Chevrolet Corvette",
-      gear: "автомат",
-      engine: 6.2,
-      year: 2017
-    },
-    {
-      image: "3.png",
-      name: "Ferrari California",
-      gear: "автомат",
-      engine: 3.9,
-      year: 2018
-    },
-    {
-      image: "4.png",
-      name: "Lamborghini Urus",
-      gear: "автомат",
-      engine: 4.0,
-      year: 2019
-    },
-    {
-      image: "5.png",
-      name: "Audi R8",
-      gear: "автомат",
-      engine: 5.2,
-      year: 2018
-    },
-    {
-      image: "6.png",
-      name: "Chevrolet Camaro",
-      gear: "автомат",
-      engine: 2.0,
-      year: 2019
-    },
-    {
-      image: "7.png",
-      name: "Maserati Quattroporte",
-      gear: "автомат",
-      engine: 4.0,
-      year: 2018
-    },
-    {
-      image: "8.png",
-      name: "Dodge Challenger",
-      gear: "автомат",
-      engine: 6.4,
-      year: 2019
-    },
-    {
-      image: "9.png",
-      name: "Nissan GT-R",
-      gear: "автомат",
-      engine: 3.8,
-      year: 2019
-    },
-  ];
+  carsData: any;
 
-  constructor(private fb: FormBuilder) {
+  constructor(private fb: FormBuilder, private appService: AppService) {
+  }
+
+  ngOnInit() {
+    this.appService.getData(this.category).subscribe(carsData => this.carsData = carsData);
   }
 
   goScroll(target: HTMLElement, car?: any) {
@@ -90,12 +31,20 @@ export class AppComponent {
   }
 
   trans: any;
+
   @HostListener('document:mousemove', ['$event'])
   onMouseMove(e: MouseEvent) {
     this.trans = {transform: 'translate3d(' + ((e.clientX * 0.2) / 10) + 'px,' + ((e.clientY * 0.2) / 10) + 'px,0px)'};
   }
 
   bgPos: any;
+
+  category: string = 'sport';
+  toggleCategory(category: string) {
+    this.category = category;
+    this.ngOnInit();
+  }
+
   @HostListener('document:scroll', ['$event'])
   onScroll() {
     this.bgPos = {backgroundPositionX: '0' + (0.2 * window.scrollY) + 'px'};
@@ -103,8 +52,18 @@ export class AppComponent {
 
   onSubmit() {
     if (this.priceForm.valid) {
-      alert('Спасибо за заявку, мы свяжемся с Вами в жближайшее время!');
-      this.priceForm.reset();
+      this.appService.sendQuery(this.priceForm.value)
+        .subscribe(
+          {
+            next: (response: any) => {
+              alert(response.message);
+              this.priceForm.reset();
+            },
+            error: (response) => {
+              alert(response.error.message);
+            }
+          }
+        );
     }
   }
 }
