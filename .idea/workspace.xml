@@ -20,7 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbd8cde4-0cef-455f-82f0-5ac12a42a328" name="Default Changelist" comment="page create">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rolls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/transmission.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/year.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/src/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/src/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-test-2/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-test-2/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +61,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2DTwfYVezQQ1FEHcTKNk1eSHiX1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -78,7 +103,6 @@
       <workItem from="1660826801143" duration="2952000" />
       <workItem from="1660894219825" duration="349000" />
       <workItem from="1660897389821" duration="8544000" />
-      <workItem from="1660915445023" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="page create">
       <created>1660914982298</created>
@@ -114,17 +138,9 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2610" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1660829816557" />
-    <state x="2667" y="241" key="VCS.ChangeListViewerDialog" timestamp="1661149710089">
+    <state x="1992" y="261" key="Vcs.Push.Dialog.v2" timestamp="1660914984764">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="2667" y="241" key="VCS.ChangeListViewerDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1661149710089" />
-    <state x="1992" y="261" key="Vcs.Push.Dialog.v2" timestamp="1660915451727">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="1992" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1660915451727" />
-    <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661149694887">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1661149694887" />
+    <state x="1992" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1660914984764" />
   </component>
 </project>
